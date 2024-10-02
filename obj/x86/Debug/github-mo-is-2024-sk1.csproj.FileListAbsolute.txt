@@ -1,0 +1,7 @@
+C:\Users\Oplik\source\repos\github-mo-is-2024-sk1\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Oplik\source\repos\github-mo-is-2024-sk1\bin\Debug\ConsoleApplication.exe
+C:\Users\Oplik\source\repos\github-mo-is-2024-sk1\bin\Debug\ConsoleApplication.pdb
+C:\Users\Oplik\source\repos\github-mo-is-2024-sk1\obj\x86\Debug\github-mo-is-2024-sk1.csproj.AssemblyReference.cache
+C:\Users\Oplik\source\repos\github-mo-is-2024-sk1\obj\x86\Debug\github-mo-is-2024-sk1.csproj.CoreCompileInputs.cache
+C:\Users\Oplik\source\repos\github-mo-is-2024-sk1\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Oplik\source\repos\github-mo-is-2024-sk1\obj\x86\Debug\ConsoleApplication.pdb
